@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafayZ but please call me Rafay.
-- 👀 I’m interested in being a data scientist and learning new languages!
-- 🌱 I’m currently learning R studio and Node.Js
+- 👀 I’m enthusiastic about AI, Data Science and Machine Learning!
+- 🌱 I’m currently learning CSS, HTML, JavaScript and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on my email: rafaybinzahid2002@outlook.com or my discord: rfybnzhd
 
