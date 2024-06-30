@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RafayZ but please call me Rafay.
 - 👀 I’m enthusiastic about AI, Data Science and Machine Learning!
-- 🌱 I’m currently learning CSS, HTML, JavaScript and Django
-- 💞️ I’m currently looking to collaborate on joining Coding Groups and similar minded people
+- 🌱 I’m currently learning Django and Ruby!
+- 💞️ I’m currently looking to join coding groups and connect with imilar minded people
 - 📫 How to reach me on my email: rafaybinzahid2002@outlook.com or my discord: rfybnzhd
 
 <!---
